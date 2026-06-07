@@ -1,0 +1,1001 @@
+view_type,angle,part,damage,airbag,severity
+external,left,Battery Tester,lamp broken,not_applicable,moderate
+internal,rear_right,Tire,none,not_applicable,undamaged
+internal,front_right,Screen,dent,not_applicable,moderate
+internal,front_right,Wiper,tire flat,not_applicable,moderate
+internal,rear_right,Battery Tester,none,not_applicable,undamaged
+internal,left,Gauge Brakes,dent,not_applicable,moderate
+internal,rear_left,License Plate,tire flat,not_applicable,moderate
+external,rear,Battery Tester,scratch,not_applicable,minor
+internal,front_right,Tire,glass shatter,not_applicable,moderate
+external,front_left,Wiper,lamp broken,not_applicable,moderate
+external,rear_right,Gauge Dial,lamp broken,not_applicable,moderate
+external,rear_right,Tire,lamp broken,not_applicable,moderate
+internal,rear,Gauge Manual,glass shatter,deployed,severe
+external,front_right,Headlight,glass shatter,not_applicable,moderate
+external,rear_right,Battery Tester,none,not_applicable,undamaged
+external,rear_right,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,front_left,Headlight,crack,not_applicable,severe
+internal,front,Tire,dent,deployed,severe
+internal,right,Gauge Dial,glass shatter,not_applicable,moderate
+internal,left,License Plate,dent,not_applicable,moderate
+external,rear_right,Gauge Brakes,none,not_applicable,undamaged
+internal,front,Battery Tester,lamp broken,deployed,severe
+internal,front_left,Gauge Digital,glass shatter,not_applicable,moderate
+internal,front_right,Gauge Brakes,scratch,not_applicable,minor
+internal,right,Cabin Air Filter,none,deployed,undamaged
+external,rear_right,Gauge Dial,scratch,not_applicable,minor
+external,rear,Headlight,none,not_applicable,undamaged
+external,rear_right,Wiper,dent,not_applicable,moderate
+external,front_left,Headlight,none,not_applicable,undamaged
+external,left,Battery Tester,crack,not_applicable,severe
+external,front,Gauge Manual,none,not_applicable,undamaged
+internal,front,Cabin Air Filter,scratch,not_applicable,minor
+internal,rear_left,Gauge Brakes,crack,not_applicable,severe
+internal,left,Battery Tester,crack,not_applicable,severe
+internal,right,Cabin Air Filter,scratch,not_applicable,minor
+external,front,Battery Tester,tire flat,not_applicable,moderate
+external,rear,Headlight,crack,not_applicable,severe
+external,right,Gauge Manual,glass shatter,not_applicable,moderate
+external,right,Cabin Air Filter,dent,not_applicable,moderate
+external,rear_right,Gauge Digital,none,not_applicable,undamaged
+external,right,Battery Tester,glass shatter,not_applicable,moderate
+internal,rear,License Plate,none,deployed,undamaged
+external,front_left,Gauge Brakes,scratch,not_applicable,minor
+internal,rear,Gauge Brakes,glass shatter,not_applicable,moderate
+external,rear_left,Gauge Digital,scratch,not_applicable,minor
+internal,front,Cabin Air Filter,glass shatter,deployed,severe
+internal,right,Tire,dent,not_applicable,moderate
+internal,rear_left,Battery Tester,glass shatter,not_applicable,moderate
+external,front_left,Gauge Digital,glass shatter,not_applicable,moderate
+external,right,Gauge Digital,lamp broken,not_applicable,moderate
+internal,rear_left,Gauge Dial,crack,not_applicable,severe
+external,rear_left,Gauge Brakes,lamp broken,not_applicable,moderate
+internal,left,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,front,Wiper,glass shatter,not_applicable,moderate
+internal,front,Wiper,none,not_applicable,undamaged
+external,right,Gauge Brakes,dent,not_applicable,moderate
+external,rear,License Plate,lamp broken,not_applicable,moderate
+internal,front_right,License Plate,crack,not_applicable,severe
+internal,front,Gauge Dial,crack,not_applicable,severe
+internal,front,Gauge Digital,glass shatter,not_applicable,moderate
+internal,rear,Tire,glass shatter,not_applicable,moderate
+external,front_right,Gauge Digital,glass shatter,not_applicable,moderate
+internal,front_right,Screen,crack,not_applicable,severe
+external,rear,Tire,tire flat,not_applicable,moderate
+external,rear_left,Gauge Digital,dent,not_applicable,moderate
+external,front_right,License Plate,none,not_applicable,undamaged
+internal,front,Tire,scratch,not_applicable,minor
+internal,left,Screen,tire flat,not_applicable,moderate
+external,rear,Gauge Brakes,lamp broken,not_applicable,moderate
+internal,left,License Plate,none,not_applicable,undamaged
+internal,right,Cabin Air Filter,crack,not_applicable,severe
+external,front_right,Battery Tester,lamp broken,not_applicable,moderate
+external,front_left,Gauge Manual,crack,not_applicable,severe
+external,rear_left,License Plate,crack,not_applicable,severe
+external,rear_left,Gauge Digital,lamp broken,not_applicable,moderate
+external,left,Screen,glass shatter,not_applicable,moderate
+external,rear_left,Wiper,none,not_applicable,undamaged
+external,left,Wiper,crack,not_applicable,severe
+external,right,Wiper,tire flat,not_applicable,moderate
+internal,front_right,License Plate,glass shatter,not_applicable,moderate
+internal,front_left,Gauge Digital,crack,not_applicable,severe
+external,front,Gauge Brakes,lamp broken,not_applicable,moderate
+external,front,Battery Tester,dent,not_applicable,moderate
+external,rear_left,Gauge Dial,none,not_applicable,undamaged
+internal,front,Gauge Manual,none,not_applicable,undamaged
+internal,right,License Plate,glass shatter,not_applicable,moderate
+internal,right,Screen,crack,not_applicable,severe
+internal,front_left,Screen,none,not_applicable,undamaged
+external,rear,Gauge Dial,none,not_applicable,undamaged
+internal,rear_right,Tire,tire flat,not_applicable,moderate
+internal,rear_left,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,left,License Plate,scratch,not_applicable,minor
+internal,front,Tire,dent,not_applicable,moderate
+external,left,License Plate,none,not_applicable,undamaged
+internal,left,Gauge Dial,scratch,not_applicable,minor
+external,right,Headlight,scratch,not_applicable,minor
+internal,left,Wiper,glass shatter,not_applicable,moderate
+external,front_right,Headlight,tire flat,not_applicable,moderate
+internal,front_left,Gauge Dial,lamp broken,not_applicable,moderate
+internal,front,Screen,glass shatter,not_applicable,moderate
+external,rear_right,Cabin Air Filter,dent,not_applicable,moderate
+internal,left,Gauge Manual,lamp broken,not_applicable,moderate
+internal,left,Screen,dent,not_applicable,moderate
+external,rear_left,Gauge Brakes,lamp broken,not_applicable,moderate
+internal,front_right,Wiper,scratch,not_applicable,minor
+internal,rear_right,Gauge Manual,dent,not_applicable,moderate
+external,front_right,Gauge Brakes,scratch,not_applicable,minor
+external,front_right,Battery Tester,lamp broken,not_applicable,moderate
+external,rear,Gauge Digital,dent,not_applicable,moderate
+external,rear_right,Tire,none,not_applicable,undamaged
+internal,rear_left,Headlight,scratch,not_applicable,minor
+external,left,Wiper,lamp broken,not_applicable,moderate
+external,front,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,rear_left,Headlight,glass shatter,not_applicable,moderate
+internal,rear,Wiper,crack,deployed,severe
+internal,front_left,Gauge Brakes,none,deployed,undamaged
+internal,rear_left,Gauge Digital,dent,not_applicable,moderate
+internal,left,Wiper,glass shatter,not_applicable,moderate
+external,front_left,Gauge Manual,scratch,not_applicable,minor
+internal,rear_right,Screen,crack,not_applicable,severe
+external,rear,Battery Tester,dent,not_applicable,moderate
+external,front_right,Headlight,crack,not_applicable,severe
+internal,left,Wiper,tire flat,deployed,severe
+external,rear_left,Headlight,tire flat,not_applicable,moderate
+internal,front,Gauge Digital,scratch,not_applicable,minor
+external,front_right,Gauge Brakes,none,not_applicable,undamaged
+internal,right,Gauge Manual,tire flat,not_applicable,moderate
+external,rear,Wiper,crack,not_applicable,severe
+external,rear_right,Cabin Air Filter,crack,not_applicable,severe
+external,rear,License Plate,tire flat,not_applicable,moderate
+external,left,Screen,scratch,not_applicable,minor
+external,right,Gauge Digital,dent,not_applicable,moderate
+internal,rear,Screen,tire flat,not_applicable,moderate
+external,left,Gauge Dial,lamp broken,not_applicable,moderate
+internal,front_left,Gauge Digital,scratch,not_applicable,minor
+internal,rear_right,Headlight,tire flat,deployed,severe
+internal,right,Gauge Dial,none,not_applicable,undamaged
+external,front_right,Screen,lamp broken,not_applicable,moderate
+external,front_right,Gauge Dial,lamp broken,not_applicable,moderate
+external,rear,Wiper,glass shatter,not_applicable,moderate
+internal,front_left,Gauge Dial,crack,not_applicable,severe
+external,front,Gauge Digital,scratch,not_applicable,minor
+internal,right,Gauge Brakes,lamp broken,deployed,severe
+external,front_right,Gauge Manual,tire flat,not_applicable,moderate
+internal,rear_right,Battery Tester,crack,not_applicable,severe
+internal,rear,Screen,tire flat,deployed,severe
+internal,front,Battery Tester,scratch,not_applicable,minor
+external,rear_right,Gauge Digital,crack,not_applicable,severe
+external,front_left,Cabin Air Filter,lamp broken,not_applicable,moderate
+internal,front_right,Cabin Air Filter,lamp broken,deployed,severe
+internal,rear,Screen,scratch,not_applicable,minor
+internal,front_right,Tire,lamp broken,not_applicable,moderate
+internal,front_right,Gauge Manual,tire flat,not_applicable,moderate
+external,rear,Gauge Dial,crack,not_applicable,severe
+external,rear_left,Headlight,tire flat,not_applicable,moderate
+external,front_left,Tire,crack,not_applicable,severe
+external,rear,Gauge Dial,tire flat,not_applicable,moderate
+internal,right,Battery Tester,lamp broken,not_applicable,moderate
+external,rear_right,Headlight,scratch,not_applicable,minor
+internal,rear_right,Wiper,dent,not_applicable,moderate
+internal,front,Gauge Brakes,lamp broken,not_applicable,moderate
+internal,front,Cabin Air Filter,dent,deployed,severe
+internal,left,Battery Tester,scratch,not_applicable,minor
+external,front_right,Gauge Manual,scratch,not_applicable,minor
+external,front_left,Gauge Manual,glass shatter,not_applicable,moderate
+internal,rear,Cabin Air Filter,lamp broken,not_applicable,moderate
+external,left,License Plate,scratch,not_applicable,minor
+internal,rear,Cabin Air Filter,scratch,not_applicable,minor
+external,front,Gauge Manual,scratch,not_applicable,minor
+external,rear_right,Battery Tester,tire flat,not_applicable,moderate
+external,right,Headlight,lamp broken,not_applicable,moderate
+internal,left,Gauge Brakes,none,not_applicable,undamaged
+external,rear_left,Headlight,tire flat,not_applicable,moderate
+external,right,Battery Tester,crack,not_applicable,severe
+external,left,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,rear,Headlight,none,not_applicable,undamaged
+external,right,Wiper,scratch,not_applicable,minor
+internal,rear_left,Battery Tester,crack,not_applicable,severe
+internal,rear_right,License Plate,scratch,not_applicable,minor
+external,rear_left,Screen,none,not_applicable,undamaged
+internal,front_left,License Plate,tire flat,deployed,severe
+internal,right,Gauge Brakes,none,not_applicable,undamaged
+internal,front_left,Gauge Manual,scratch,not_applicable,minor
+internal,front_right,License Plate,lamp broken,not_applicable,moderate
+internal,rear_right,Cabin Air Filter,scratch,not_applicable,minor
+internal,rear_left,Gauge Dial,crack,not_applicable,severe
+external,right,License Plate,glass shatter,not_applicable,moderate
+internal,rear_left,Gauge Digital,glass shatter,not_applicable,moderate
+external,right,Tire,scratch,not_applicable,minor
+external,left,Gauge Dial,glass shatter,not_applicable,moderate
+internal,left,Tire,crack,not_applicable,severe
+external,front_left,Tire,glass shatter,not_applicable,moderate
+external,left,Gauge Digital,none,not_applicable,undamaged
+internal,front_left,Gauge Digital,none,deployed,undamaged
+internal,rear_left,Gauge Dial,tire flat,deployed,severe
+external,front_left,Gauge Digital,glass shatter,not_applicable,moderate
+internal,left,License Plate,tire flat,not_applicable,moderate
+internal,rear,Headlight,none,not_applicable,undamaged
+external,front_right,Cabin Air Filter,dent,not_applicable,moderate
+external,front_right,Gauge Digital,scratch,not_applicable,minor
+internal,rear,Gauge Brakes,tire flat,not_applicable,moderate
+internal,left,Battery Tester,crack,not_applicable,severe
+internal,front_left,Cabin Air Filter,none,not_applicable,undamaged
+internal,left,Gauge Brakes,lamp broken,not_applicable,moderate
+external,left,Gauge Digital,glass shatter,not_applicable,moderate
+internal,left,Screen,scratch,not_applicable,minor
+internal,rear_right,Wiper,dent,deployed,severe
+internal,rear_right,Gauge Dial,none,not_applicable,undamaged
+external,rear,Gauge Dial,lamp broken,not_applicable,moderate
+external,rear_left,Gauge Digital,lamp broken,not_applicable,moderate
+internal,rear,Battery Tester,crack,not_applicable,severe
+external,front_left,Battery Tester,scratch,not_applicable,minor
+external,front_right,Gauge Digital,glass shatter,not_applicable,moderate
+external,front,License Plate,lamp broken,not_applicable,moderate
+external,rear,License Plate,scratch,not_applicable,minor
+external,rear_right,Headlight,tire flat,not_applicable,moderate
+internal,right,Gauge Brakes,lamp broken,deployed,severe
+internal,right,Battery Tester,crack,deployed,severe
+external,front,Gauge Manual,glass shatter,not_applicable,moderate
+internal,front_right,Gauge Digital,tire flat,not_applicable,moderate
+internal,rear_left,Screen,dent,deployed,severe
+external,front_right,Gauge Brakes,scratch,not_applicable,minor
+external,front,License Plate,tire flat,not_applicable,moderate
+external,front_right,Cabin Air Filter,lamp broken,not_applicable,moderate
+internal,rear,Gauge Dial,scratch,not_applicable,minor
+external,rear_left,Gauge Manual,tire flat,not_applicable,moderate
+external,rear_right,Gauge Brakes,dent,not_applicable,moderate
+external,front,Cabin Air Filter,scratch,not_applicable,minor
+external,rear_left,Tire,scratch,not_applicable,minor
+internal,rear_right,Wiper,crack,not_applicable,severe
+internal,front_left,Gauge Digital,none,not_applicable,undamaged
+internal,right,License Plate,crack,not_applicable,severe
+external,front,Tire,dent,not_applicable,moderate
+internal,rear_right,Headlight,glass shatter,deployed,severe
+external,rear_right,Wiper,crack,not_applicable,severe
+external,right,Gauge Dial,tire flat,not_applicable,moderate
+internal,rear_right,Gauge Digital,lamp broken,not_applicable,moderate
+internal,rear_right,Screen,none,not_applicable,undamaged
+external,front_left,Gauge Dial,dent,not_applicable,moderate
+internal,front_left,Gauge Brakes,glass shatter,deployed,severe
+internal,rear_right,Wiper,tire flat,not_applicable,moderate
+external,right,Tire,none,not_applicable,undamaged
+external,front,Gauge Digital,scratch,not_applicable,minor
+external,front_left,Gauge Dial,lamp broken,not_applicable,moderate
+internal,rear_left,Battery Tester,dent,not_applicable,moderate
+internal,rear_right,Gauge Digital,glass shatter,not_applicable,moderate
+internal,front_right,Gauge Dial,scratch,not_applicable,minor
+external,rear_left,Gauge Brakes,dent,not_applicable,moderate
+external,front_left,Cabin Air Filter,dent,not_applicable,moderate
+internal,right,Screen,crack,deployed,severe
+external,front,Wiper,lamp broken,not_applicable,moderate
+internal,rear_right,License Plate,dent,not_applicable,moderate
+internal,left,Gauge Digital,crack,not_applicable,severe
+external,front_left,License Plate,scratch,not_applicable,minor
+external,rear,Tire,crack,not_applicable,severe
+internal,right,License Plate,dent,not_applicable,moderate
+external,front,Screen,crack,not_applicable,severe
+internal,front,Gauge Dial,tire flat,not_applicable,moderate
+external,front_right,Tire,crack,not_applicable,severe
+external,rear_left,Cabin Air Filter,dent,not_applicable,moderate
+external,front_left,Battery Tester,crack,not_applicable,severe
+internal,rear_left,Gauge Brakes,dent,not_applicable,moderate
+internal,front_left,Battery Tester,none,not_applicable,undamaged
+external,front_left,License Plate,crack,not_applicable,severe
+internal,rear_right,License Plate,lamp broken,deployed,severe
+external,rear_left,License Plate,tire flat,not_applicable,moderate
+internal,rear,Gauge Digital,dent,not_applicable,moderate
+external,front_left,Headlight,lamp broken,not_applicable,moderate
+internal,right,Gauge Brakes,tire flat,not_applicable,moderate
+external,front,Cabin Air Filter,tire flat,not_applicable,moderate
+external,right,Tire,crack,not_applicable,severe
+external,front_right,Gauge Brakes,crack,not_applicable,severe
+external,front,Headlight,crack,not_applicable,severe
+external,front_right,Headlight,glass shatter,not_applicable,moderate
+external,front,Battery Tester,glass shatter,not_applicable,moderate
+external,front,License Plate,glass shatter,not_applicable,moderate
+external,left,Cabin Air Filter,scratch,not_applicable,minor
+external,right,Headlight,crack,not_applicable,severe
+external,front,Gauge Manual,none,not_applicable,undamaged
+internal,front,Gauge Digital,scratch,deployed,severe
+internal,rear,License Plate,tire flat,not_applicable,moderate
+internal,front,Screen,crack,not_applicable,severe
+internal,rear_right,Screen,glass shatter,not_applicable,moderate
+internal,left,Cabin Air Filter,scratch,not_applicable,minor
+internal,front_left,Gauge Brakes,scratch,not_applicable,minor
+external,right,Wiper,crack,not_applicable,severe
+internal,right,Battery Tester,scratch,not_applicable,minor
+external,right,Tire,scratch,not_applicable,minor
+external,front_right,License Plate,crack,not_applicable,severe
+external,front_right,Gauge Brakes,tire flat,not_applicable,moderate
+internal,rear,Gauge Manual,none,not_applicable,undamaged
+internal,front_left,Battery Tester,tire flat,not_applicable,moderate
+internal,rear_left,Gauge Brakes,tire flat,not_applicable,moderate
+internal,right,License Plate,lamp broken,not_applicable,moderate
+external,left,Headlight,crack,not_applicable,severe
+external,rear,Battery Tester,tire flat,not_applicable,moderate
+internal,rear_left,Gauge Dial,none,not_applicable,undamaged
+external,front_right,Gauge Digital,lamp broken,not_applicable,moderate
+internal,rear_left,License Plate,glass shatter,not_applicable,moderate
+external,front_left,Gauge Manual,dent,not_applicable,moderate
+internal,rear_right,Wiper,tire flat,not_applicable,moderate
+external,rear,Gauge Manual,crack,not_applicable,severe
+internal,rear,Gauge Dial,glass shatter,deployed,severe
+external,front,Tire,lamp broken,not_applicable,moderate
+internal,front,Headlight,crack,not_applicable,severe
+external,front_right,Gauge Manual,none,not_applicable,undamaged
+internal,front_left,License Plate,none,not_applicable,undamaged
+external,rear_right,Headlight,scratch,not_applicable,minor
+internal,front,Battery Tester,tire flat,not_applicable,moderate
+external,rear_right,Screen,tire flat,not_applicable,moderate
+internal,front_left,Screen,tire flat,not_applicable,moderate
+external,front,Wiper,none,not_applicable,undamaged
+external,rear,Tire,glass shatter,not_applicable,moderate
+internal,front_left,Screen,glass shatter,not_applicable,moderate
+external,front_left,License Plate,none,not_applicable,undamaged
+internal,front,Tire,glass shatter,not_applicable,moderate
+external,right,Gauge Brakes,glass shatter,not_applicable,moderate
+internal,rear_right,Gauge Manual,crack,not_applicable,severe
+external,left,Battery Tester,scratch,not_applicable,minor
+internal,rear,Gauge Manual,dent,not_applicable,moderate
+external,rear_right,Battery Tester,dent,not_applicable,moderate
+internal,front_left,Battery Tester,crack,not_applicable,severe
+external,left,Gauge Dial,crack,not_applicable,severe
+internal,right,Gauge Manual,lamp broken,not_applicable,moderate
+external,rear,Battery Tester,crack,not_applicable,severe
+external,left,Cabin Air Filter,scratch,not_applicable,minor
+internal,front_left,Gauge Digital,scratch,deployed,severe
+external,rear,Screen,scratch,not_applicable,minor
+internal,rear_right,Screen,lamp broken,not_applicable,moderate
+external,rear,Gauge Manual,dent,not_applicable,moderate
+internal,rear_left,Screen,none,not_applicable,undamaged
+internal,rear_right,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,front_right,Gauge Brakes,scratch,not_applicable,minor
+external,left,Screen,lamp broken,not_applicable,moderate
+external,left,Tire,crack,not_applicable,severe
+external,front_left,Screen,glass shatter,not_applicable,moderate
+external,rear_left,Headlight,glass shatter,not_applicable,moderate
+external,rear_left,Gauge Digital,tire flat,not_applicable,moderate
+external,rear_left,Battery Tester,crack,not_applicable,severe
+external,left,Gauge Dial,dent,not_applicable,moderate
+internal,left,License Plate,crack,not_applicable,severe
+internal,right,Headlight,none,not_applicable,undamaged
+external,left,Headlight,lamp broken,not_applicable,moderate
+internal,front_right,Gauge Brakes,none,not_applicable,undamaged
+external,rear,Wiper,dent,not_applicable,moderate
+internal,front_left,License Plate,glass shatter,not_applicable,moderate
+external,rear_left,Gauge Brakes,scratch,not_applicable,minor
+external,front_right,Gauge Digital,none,not_applicable,undamaged
+external,rear_right,Gauge Dial,glass shatter,not_applicable,moderate
+external,front,Battery Tester,none,not_applicable,undamaged
+external,front,Gauge Brakes,crack,not_applicable,severe
+external,rear,Gauge Dial,scratch,not_applicable,minor
+internal,front,Battery Tester,lamp broken,deployed,severe
+external,front_right,Gauge Manual,lamp broken,not_applicable,moderate
+external,rear_right,Battery Tester,none,not_applicable,undamaged
+external,rear_left,Wiper,crack,not_applicable,severe
+external,rear_right,Cabin Air Filter,lamp broken,not_applicable,moderate
+internal,rear,License Plate,crack,deployed,severe
+external,rear,Wiper,none,not_applicable,undamaged
+internal,right,Headlight,lamp broken,not_applicable,moderate
+external,rear,Screen,crack,not_applicable,severe
+external,right,License Plate,lamp broken,not_applicable,moderate
+external,right,Tire,scratch,not_applicable,minor
+internal,front_right,Gauge Brakes,crack,deployed,severe
+external,front_right,Wiper,none,not_applicable,undamaged
+internal,front_right,Tire,lamp broken,not_applicable,moderate
+external,rear,Gauge Manual,lamp broken,not_applicable,moderate
+internal,right,Gauge Digital,scratch,not_applicable,minor
+external,right,Screen,tire flat,not_applicable,moderate
+internal,rear_right,Tire,glass shatter,not_applicable,moderate
+external,front,Tire,crack,not_applicable,severe
+external,left,License Plate,none,not_applicable,undamaged
+internal,front_right,Gauge Dial,lamp broken,not_applicable,moderate
+external,front_right,Gauge Manual,tire flat,not_applicable,moderate
+external,front,Screen,tire flat,not_applicable,moderate
+external,left,Headlight,scratch,not_applicable,minor
+internal,right,Gauge Manual,none,not_applicable,undamaged
+internal,rear,Gauge Digital,crack,not_applicable,severe
+external,right,License Plate,none,not_applicable,undamaged
+internal,front,Battery Tester,crack,not_applicable,severe
+internal,right,Screen,glass shatter,not_applicable,moderate
+external,rear_left,Battery Tester,crack,not_applicable,severe
+internal,rear,Gauge Brakes,dent,not_applicable,moderate
+external,front_right,License Plate,dent,not_applicable,moderate
+external,right,Gauge Dial,none,not_applicable,undamaged
+external,rear,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,rear,Gauge Brakes,dent,not_applicable,moderate
+external,left,Gauge Digital,dent,not_applicable,moderate
+external,rear_left,Cabin Air Filter,crack,not_applicable,severe
+internal,front_right,Tire,tire flat,not_applicable,moderate
+external,rear_left,Gauge Dial,dent,not_applicable,moderate
+external,rear,Gauge Manual,glass shatter,not_applicable,moderate
+internal,rear,Battery Tester,glass shatter,deployed,severe
+internal,front_right,Cabin Air Filter,scratch,not_applicable,minor
+external,front_left,Headlight,lamp broken,not_applicable,moderate
+external,front,Wiper,crack,not_applicable,severe
+internal,right,Cabin Air Filter,dent,not_applicable,moderate
+internal,right,Wiper,lamp broken,deployed,severe
+external,front_left,Gauge Brakes,dent,not_applicable,moderate
+internal,left,Screen,tire flat,not_applicable,moderate
+internal,left,Gauge Digital,crack,not_applicable,severe
+external,front_left,Gauge Digital,tire flat,not_applicable,moderate
+external,front_left,License Plate,scratch,not_applicable,minor
+internal,rear_right,Screen,crack,deployed,severe
+internal,front_left,Battery Tester,lamp broken,not_applicable,moderate
+external,right,Tire,tire flat,not_applicable,moderate
+internal,front_right,Gauge Manual,crack,not_applicable,severe
+internal,rear_left,Gauge Digital,tire flat,not_applicable,moderate
+external,left,License Plate,none,not_applicable,undamaged
+external,right,Gauge Brakes,none,not_applicable,undamaged
+internal,front_left,Tire,dent,not_applicable,moderate
+external,rear_left,Wiper,dent,not_applicable,moderate
+external,rear_left,Battery Tester,glass shatter,not_applicable,moderate
+internal,rear_left,Gauge Manual,dent,not_applicable,moderate
+internal,left,Tire,scratch,not_applicable,minor
+external,front,Wiper,tire flat,not_applicable,moderate
+external,front_right,Tire,glass shatter,not_applicable,moderate
+internal,front,Gauge Dial,scratch,not_applicable,minor
+external,right,Headlight,glass shatter,not_applicable,moderate
+internal,left,Wiper,glass shatter,not_applicable,moderate
+internal,front_right,Screen,glass shatter,not_applicable,moderate
+internal,front,Gauge Dial,crack,not_applicable,severe
+external,left,Gauge Dial,tire flat,not_applicable,moderate
+internal,rear_right,Headlight,lamp broken,not_applicable,moderate
+internal,rear,Battery Tester,none,not_applicable,undamaged
+internal,front_right,Tire,lamp broken,not_applicable,moderate
+internal,rear_left,Gauge Brakes,none,deployed,undamaged
+internal,front_right,Gauge Brakes,tire flat,not_applicable,moderate
+internal,right,Battery Tester,dent,not_applicable,moderate
+internal,front_right,Wiper,tire flat,not_applicable,moderate
+internal,front_left,Gauge Manual,none,not_applicable,undamaged
+internal,right,Screen,lamp broken,not_applicable,moderate
+internal,rear,License Plate,tire flat,not_applicable,moderate
+external,rear_left,License Plate,dent,not_applicable,moderate
+internal,left,Tire,glass shatter,not_applicable,moderate
+internal,rear_left,License Plate,scratch,not_applicable,minor
+external,front_right,Gauge Digital,tire flat,not_applicable,moderate
+internal,rear,Wiper,lamp broken,not_applicable,moderate
+external,left,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,front_right,Gauge Dial,tire flat,deployed,severe
+internal,rear_right,Wiper,none,not_applicable,undamaged
+internal,front,Headlight,none,deployed,undamaged
+internal,right,Battery Tester,dent,not_applicable,moderate
+external,front,Screen,scratch,not_applicable,minor
+external,front_left,Gauge Manual,tire flat,not_applicable,moderate
+internal,right,Gauge Brakes,none,deployed,undamaged
+internal,rear_left,Wiper,glass shatter,deployed,severe
+internal,right,Screen,crack,not_applicable,severe
+internal,front_left,Gauge Dial,lamp broken,deployed,severe
+internal,front_left,Headlight,none,deployed,undamaged
+external,front_right,Battery Tester,crack,not_applicable,severe
+external,rear_left,Gauge Digital,lamp broken,not_applicable,moderate
+external,right,License Plate,scratch,not_applicable,minor
+external,front_right,Headlight,lamp broken,not_applicable,moderate
+external,rear,License Plate,lamp broken,not_applicable,moderate
+internal,left,Gauge Digital,dent,deployed,severe
+internal,front_right,Gauge Brakes,none,deployed,undamaged
+external,front_right,Gauge Dial,scratch,not_applicable,minor
+external,left,Screen,dent,not_applicable,moderate
+internal,right,Tire,scratch,not_applicable,minor
+internal,front,Gauge Brakes,glass shatter,not_applicable,moderate
+internal,rear_left,Gauge Brakes,crack,not_applicable,severe
+external,rear_right,Gauge Dial,tire flat,not_applicable,moderate
+external,front_right,Wiper,scratch,not_applicable,minor
+internal,front,Screen,dent,not_applicable,moderate
+internal,left,Cabin Air Filter,dent,deployed,severe
+internal,front_right,Tire,tire flat,not_applicable,moderate
+external,front_left,Cabin Air Filter,crack,not_applicable,severe
+internal,rear_right,Screen,crack,not_applicable,severe
+internal,front_left,Battery Tester,lamp broken,not_applicable,moderate
+internal,front_left,Cabin Air Filter,scratch,not_applicable,minor
+external,front_left,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,front,Gauge Digital,dent,not_applicable,moderate
+external,rear_left,License Plate,scratch,not_applicable,minor
+internal,right,Battery Tester,dent,not_applicable,moderate
+external,right,Gauge Digital,dent,not_applicable,moderate
+external,right,Gauge Dial,none,not_applicable,undamaged
+internal,front_left,Wiper,scratch,not_applicable,minor
+external,rear_left,Battery Tester,none,not_applicable,undamaged
+internal,front,License Plate,dent,not_applicable,moderate
+external,right,Gauge Dial,glass shatter,not_applicable,moderate
+internal,front_left,License Plate,scratch,not_applicable,minor
+internal,front_left,Gauge Dial,scratch,not_applicable,minor
+internal,front_right,Wiper,lamp broken,not_applicable,moderate
+external,front,Screen,tire flat,not_applicable,moderate
+external,left,Gauge Digital,none,not_applicable,undamaged
+internal,rear,Headlight,none,deployed,undamaged
+external,front_right,Cabin Air Filter,scratch,not_applicable,minor
+internal,right,Gauge Digital,scratch,not_applicable,minor
+external,front,Screen,glass shatter,not_applicable,moderate
+internal,front_left,Gauge Digital,none,deployed,undamaged
+internal,front_left,Battery Tester,crack,deployed,severe
+external,front,Battery Tester,scratch,not_applicable,minor
+external,left,Battery Tester,glass shatter,not_applicable,moderate
+internal,rear_right,Gauge Dial,crack,not_applicable,severe
+external,left,Headlight,scratch,not_applicable,minor
+external,rear,Gauge Digital,lamp broken,not_applicable,moderate
+internal,left,License Plate,lamp broken,not_applicable,moderate
+external,rear_right,Gauge Digital,lamp broken,not_applicable,moderate
+external,rear_right,Gauge Brakes,dent,not_applicable,moderate
+external,front_right,Gauge Dial,scratch,not_applicable,minor
+external,rear_right,Gauge Dial,lamp broken,not_applicable,moderate
+internal,rear_right,Cabin Air Filter,glass shatter,not_applicable,moderate
+external,left,Battery Tester,glass shatter,not_applicable,moderate
+internal,front_left,Gauge Brakes,lamp broken,not_applicable,moderate
+external,front_right,Battery Tester,lamp broken,not_applicable,moderate
+external,right,Tire,glass shatter,not_applicable,moderate
+internal,right,Gauge Dial,lamp broken,not_applicable,moderate
+external,front,Gauge Digital,glass shatter,not_applicable,moderate
+internal,front_left,Cabin Air Filter,glass shatter,deployed,severe
+internal,front_right,Battery Tester,scratch,not_applicable,minor
+internal,left,Wiper,glass shatter,not_applicable,moderate
+internal,rear,Gauge Dial,glass shatter,not_applicable,moderate
+internal,front_left,Gauge Brakes,dent,not_applicable,moderate
+external,right,Cabin Air Filter,dent,not_applicable,moderate
+internal,front_left,Headlight,dent,not_applicable,moderate
+external,rear_right,Cabin Air Filter,scratch,not_applicable,minor
+external,rear,Screen,none,not_applicable,undamaged
+external,rear,Headlight,dent,not_applicable,moderate
+external,left,Gauge Dial,none,not_applicable,undamaged
+external,right,Cabin Air Filter,lamp broken,not_applicable,moderate
+external,front_right,Headlight,dent,not_applicable,moderate
+internal,rear,Battery Tester,tire flat,not_applicable,moderate
+internal,right,Wiper,glass shatter,not_applicable,moderate
+external,front,Gauge Brakes,dent,not_applicable,moderate
+external,left,License Plate,crack,not_applicable,severe
+external,front_left,Gauge Manual,crack,not_applicable,severe
+external,rear,Headlight,glass shatter,not_applicable,moderate
+internal,right,Screen,scratch,not_applicable,minor
+internal,rear_right,Gauge Brakes,scratch,deployed,severe
+external,front_right,License Plate,tire flat,not_applicable,moderate
+external,front_left,Gauge Brakes,scratch,not_applicable,minor
+internal,left,Wiper,scratch,not_applicable,minor
+external,front,Screen,scratch,not_applicable,minor
+internal,front,Gauge Manual,lamp broken,deployed,severe
+external,front_right,Gauge Digital,scratch,not_applicable,minor
+external,left,Headlight,lamp broken,not_applicable,moderate
+external,front_left,Cabin Air Filter,crack,not_applicable,severe
+external,rear_left,Gauge Digital,scratch,not_applicable,minor
+internal,front,Cabin Air Filter,dent,not_applicable,moderate
+external,rear_right,Battery Tester,glass shatter,not_applicable,moderate
+internal,front_left,Battery Tester,scratch,not_applicable,minor
+external,right,Battery Tester,tire flat,not_applicable,moderate
+internal,front_right,License Plate,dent,not_applicable,moderate
+internal,left,Screen,dent,not_applicable,moderate
+external,rear,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,rear,Battery Tester,tire flat,not_applicable,moderate
+external,front_right,Battery Tester,scratch,not_applicable,minor
+external,front_left,License Plate,crack,not_applicable,severe
+external,front,Tire,scratch,not_applicable,minor
+external,rear_right,Tire,tire flat,not_applicable,moderate
+external,left,Cabin Air Filter,scratch,not_applicable,minor
+external,left,Tire,tire flat,not_applicable,moderate
+external,front_right,Screen,lamp broken,not_applicable,moderate
+external,right,Tire,crack,not_applicable,severe
+external,rear,Gauge Manual,none,not_applicable,undamaged
+internal,front,Screen,scratch,not_applicable,minor
+internal,front,Tire,none,not_applicable,undamaged
+external,front_left,Cabin Air Filter,dent,not_applicable,moderate
+internal,right,Wiper,glass shatter,deployed,severe
+internal,rear_right,Tire,none,not_applicable,undamaged
+internal,rear,Cabin Air Filter,dent,not_applicable,moderate
+internal,left,Gauge Manual,crack,not_applicable,severe
+internal,right,Screen,scratch,not_applicable,minor
+external,rear,Headlight,glass shatter,not_applicable,moderate
+internal,left,Gauge Digital,dent,not_applicable,moderate
+internal,front_left,Gauge Brakes,lamp broken,not_applicable,moderate
+internal,left,License Plate,glass shatter,not_applicable,moderate
+internal,rear,Tire,lamp broken,not_applicable,moderate
+internal,front_left,Gauge Manual,dent,deployed,severe
+internal,front,Cabin Air Filter,dent,not_applicable,moderate
+external,left,Gauge Manual,none,not_applicable,undamaged
+external,front_right,Wiper,crack,not_applicable,severe
+external,right,Gauge Brakes,tire flat,not_applicable,moderate
+external,front,Gauge Digital,tire flat,not_applicable,moderate
+external,rear_left,License Plate,tire flat,not_applicable,moderate
+external,rear_left,Headlight,dent,not_applicable,moderate
+internal,rear_left,Gauge Dial,crack,not_applicable,severe
+internal,rear_left,Gauge Brakes,none,not_applicable,undamaged
+external,rear_left,Headlight,none,not_applicable,undamaged
+external,rear_right,Headlight,crack,not_applicable,severe
+external,left,Gauge Dial,none,not_applicable,undamaged
+external,left,Gauge Brakes,dent,not_applicable,moderate
+internal,left,Gauge Dial,lamp broken,not_applicable,moderate
+external,right,Gauge Digital,glass shatter,not_applicable,moderate
+internal,front,Tire,lamp broken,not_applicable,moderate
+internal,rear_right,Gauge Dial,none,not_applicable,undamaged
+external,front_right,Gauge Brakes,none,not_applicable,undamaged
+internal,rear_left,Gauge Dial,lamp broken,deployed,severe
+internal,rear,Screen,dent,deployed,severe
+external,right,Headlight,lamp broken,not_applicable,moderate
+external,front_left,Gauge Dial,scratch,not_applicable,minor
+external,right,Headlight,scratch,not_applicable,minor
+external,rear,Screen,scratch,not_applicable,minor
+external,front_right,Screen,lamp broken,not_applicable,moderate
+internal,rear_left,License Plate,none,not_applicable,undamaged
+external,front,Gauge Brakes,glass shatter,not_applicable,moderate
+internal,front_left,Gauge Digital,none,not_applicable,undamaged
+internal,left,Wiper,dent,not_applicable,moderate
+internal,left,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,front,Gauge Brakes,dent,not_applicable,moderate
+internal,left,Headlight,dent,not_applicable,moderate
+external,rear_left,Wiper,none,not_applicable,undamaged
+external,right,Tire,none,not_applicable,undamaged
+internal,left,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,right,Gauge Digital,scratch,not_applicable,minor
+external,front,Tire,dent,not_applicable,moderate
+internal,front,Gauge Manual,scratch,not_applicable,minor
+external,front_right,Gauge Manual,tire flat,not_applicable,moderate
+external,rear,Gauge Digital,lamp broken,not_applicable,moderate
+internal,front_right,Screen,crack,not_applicable,severe
+external,left,Gauge Dial,dent,not_applicable,moderate
+internal,rear_left,Wiper,glass shatter,not_applicable,moderate
+external,front,Gauge Manual,none,not_applicable,undamaged
+external,right,Gauge Digital,none,not_applicable,undamaged
+internal,rear_right,Tire,tire flat,not_applicable,moderate
+external,rear,Tire,crack,not_applicable,severe
+internal,front_right,Gauge Manual,dent,not_applicable,moderate
+external,rear_left,Screen,crack,not_applicable,severe
+internal,right,Gauge Manual,dent,not_applicable,moderate
+external,left,Screen,dent,not_applicable,moderate
+external,front_left,Gauge Dial,lamp broken,not_applicable,moderate
+internal,front_right,License Plate,tire flat,not_applicable,moderate
+internal,rear_left,Headlight,none,not_applicable,undamaged
+internal,front,Gauge Digital,dent,deployed,severe
+internal,rear_right,Wiper,tire flat,deployed,severe
+internal,rear_left,Wiper,crack,deployed,severe
+internal,front_right,Headlight,scratch,not_applicable,minor
+external,front_left,Gauge Dial,crack,not_applicable,severe
+external,rear_left,Wiper,tire flat,not_applicable,moderate
+internal,rear_left,Gauge Digital,dent,not_applicable,moderate
+internal,left,Gauge Dial,glass shatter,not_applicable,moderate
+external,rear,Cabin Air Filter,none,not_applicable,undamaged
+internal,front,Headlight,lamp broken,not_applicable,moderate
+internal,left,Headlight,crack,not_applicable,severe
+external,rear_left,Battery Tester,tire flat,not_applicable,moderate
+external,left,Battery Tester,scratch,not_applicable,minor
+internal,front,Gauge Brakes,tire flat,not_applicable,moderate
+external,front_left,Cabin Air Filter,dent,not_applicable,moderate
+external,rear,Wiper,tire flat,not_applicable,moderate
+external,rear_left,Tire,scratch,not_applicable,minor
+internal,rear,Headlight,crack,deployed,severe
+internal,front,Wiper,none,not_applicable,undamaged
+external,right,Cabin Air Filter,tire flat,not_applicable,moderate
+external,front_right,Battery Tester,scratch,not_applicable,minor
+external,rear_left,Headlight,scratch,not_applicable,minor
+internal,front_right,Battery Tester,lamp broken,not_applicable,moderate
+external,front,License Plate,lamp broken,not_applicable,moderate
+external,rear,Battery Tester,tire flat,not_applicable,moderate
+external,front,Gauge Digital,lamp broken,not_applicable,moderate
+external,right,Screen,lamp broken,not_applicable,moderate
+external,right,Screen,glass shatter,not_applicable,moderate
+internal,left,Gauge Digital,dent,not_applicable,moderate
+external,front_right,Battery Tester,lamp broken,not_applicable,moderate
+internal,left,Battery Tester,lamp broken,not_applicable,moderate
+external,rear,Battery Tester,lamp broken,not_applicable,moderate
+internal,left,Gauge Brakes,lamp broken,deployed,severe
+external,rear_left,Battery Tester,tire flat,not_applicable,moderate
+internal,front,Headlight,glass shatter,not_applicable,moderate
+internal,left,Screen,none,not_applicable,undamaged
+internal,front,Wiper,crack,not_applicable,severe
+external,right,Gauge Dial,crack,not_applicable,severe
+internal,front_right,Battery Tester,dent,not_applicable,moderate
+internal,front,License Plate,crack,not_applicable,severe
+internal,left,Gauge Manual,scratch,not_applicable,minor
+internal,rear_left,Tire,lamp broken,not_applicable,moderate
+internal,rear_left,Tire,none,not_applicable,undamaged
+external,front_left,License Plate,lamp broken,not_applicable,moderate
+internal,rear,Gauge Manual,dent,not_applicable,moderate
+internal,right,Wiper,glass shatter,not_applicable,moderate
+internal,left,Gauge Brakes,crack,not_applicable,severe
+internal,rear_right,Tire,dent,not_applicable,moderate
+internal,rear,Gauge Digital,glass shatter,not_applicable,moderate
+internal,right,Battery Tester,tire flat,deployed,severe
+internal,rear_right,Tire,lamp broken,deployed,severe
+external,rear_left,License Plate,dent,not_applicable,moderate
+external,front_left,License Plate,lamp broken,not_applicable,moderate
+external,rear,Screen,none,not_applicable,undamaged
+external,front,Tire,lamp broken,not_applicable,moderate
+internal,front_right,Wiper,none,not_applicable,undamaged
+internal,rear,Gauge Manual,dent,deployed,severe
+internal,front,Gauge Brakes,scratch,not_applicable,minor
+internal,right,Battery Tester,crack,deployed,severe
+internal,rear,Gauge Dial,glass shatter,deployed,severe
+external,rear,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,left,License Plate,none,not_applicable,undamaged
+external,front_right,Headlight,glass shatter,not_applicable,moderate
+external,front_right,Headlight,glass shatter,not_applicable,moderate
+external,rear,Wiper,glass shatter,not_applicable,moderate
+internal,rear_left,Cabin Air Filter,lamp broken,not_applicable,moderate
+internal,right,Screen,tire flat,not_applicable,moderate
+external,front,Screen,lamp broken,not_applicable,moderate
+internal,front_right,Cabin Air Filter,scratch,not_applicable,minor
+internal,front,Gauge Dial,lamp broken,not_applicable,moderate
+internal,rear_left,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,front,Gauge Dial,glass shatter,not_applicable,moderate
+internal,rear_left,Gauge Digital,dent,not_applicable,moderate
+external,rear,Headlight,lamp broken,not_applicable,moderate
+internal,left,Screen,dent,not_applicable,moderate
+external,rear_right,Cabin Air Filter,lamp broken,not_applicable,moderate
+internal,left,Wiper,crack,deployed,severe
+external,rear_right,Tire,tire flat,not_applicable,moderate
+internal,front_right,Screen,lamp broken,not_applicable,moderate
+external,right,Gauge Dial,dent,not_applicable,moderate
+internal,front,Gauge Dial,glass shatter,not_applicable,moderate
+internal,rear_right,License Plate,scratch,not_applicable,minor
+external,left,Gauge Dial,glass shatter,not_applicable,moderate
+external,right,License Plate,scratch,not_applicable,minor
+internal,rear,Gauge Brakes,crack,deployed,severe
+external,rear,Battery Tester,dent,not_applicable,moderate
+external,front_right,License Plate,none,not_applicable,undamaged
+external,rear_left,Gauge Brakes,dent,not_applicable,moderate
+internal,front,Headlight,glass shatter,not_applicable,moderate
+internal,left,Gauge Dial,lamp broken,not_applicable,moderate
+external,rear_left,Headlight,none,not_applicable,undamaged
+external,front,Gauge Manual,none,not_applicable,undamaged
+internal,rear_left,Tire,none,not_applicable,undamaged
+external,front,Gauge Manual,glass shatter,not_applicable,moderate
+external,left,Gauge Digital,none,not_applicable,undamaged
+internal,left,Tire,none,not_applicable,undamaged
+external,right,Battery Tester,glass shatter,not_applicable,moderate
+internal,front_right,Gauge Digital,glass shatter,deployed,severe
+internal,front_left,Tire,tire flat,not_applicable,moderate
+internal,front_right,Headlight,crack,not_applicable,severe
+internal,rear,Gauge Dial,none,not_applicable,undamaged
+internal,front_right,Screen,none,not_applicable,undamaged
+internal,front_right,Wiper,scratch,deployed,severe
+external,front_right,Cabin Air Filter,lamp broken,not_applicable,moderate
+internal,right,License Plate,dent,not_applicable,moderate
+internal,rear_left,Gauge Brakes,lamp broken,not_applicable,moderate
+external,rear_right,Tire,none,not_applicable,undamaged
+internal,front_left,Gauge Digital,tire flat,not_applicable,moderate
+external,front_left,License Plate,lamp broken,not_applicable,moderate
+internal,front_left,Headlight,tire flat,not_applicable,moderate
+internal,front,Gauge Brakes,glass shatter,not_applicable,moderate
+external,rear,License Plate,tire flat,not_applicable,moderate
+external,rear_right,Wiper,dent,not_applicable,moderate
+internal,rear_left,Cabin Air Filter,dent,not_applicable,moderate
+internal,left,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,rear_left,Wiper,none,deployed,undamaged
+internal,left,Headlight,crack,not_applicable,severe
+external,right,Tire,scratch,not_applicable,minor
+internal,front,Wiper,dent,deployed,severe
+internal,front_right,Tire,crack,not_applicable,severe
+internal,rear,Gauge Manual,scratch,deployed,severe
+internal,right,Cabin Air Filter,crack,not_applicable,severe
+external,front,Wiper,scratch,not_applicable,minor
+external,front_right,Cabin Air Filter,lamp broken,not_applicable,moderate
+external,rear,Gauge Digital,scratch,not_applicable,minor
+internal,right,Gauge Brakes,dent,not_applicable,moderate
+internal,front,Gauge Digital,tire flat,not_applicable,moderate
+external,front_left,Gauge Digital,none,not_applicable,undamaged
+internal,front_left,Gauge Manual,crack,not_applicable,severe
+external,rear_right,Battery Tester,none,not_applicable,undamaged
+external,front_right,Battery Tester,tire flat,not_applicable,moderate
+internal,left,Tire,dent,not_applicable,moderate
+internal,rear,Tire,glass shatter,not_applicable,moderate
+external,rear_right,Battery Tester,tire flat,not_applicable,moderate
+internal,front_right,Wiper,tire flat,not_applicable,moderate
+external,rear,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,rear_left,Battery Tester,lamp broken,not_applicable,moderate
+external,front_right,Gauge Manual,glass shatter,not_applicable,moderate
+external,right,Gauge Digital,glass shatter,not_applicable,moderate
+internal,rear_left,Gauge Dial,crack,not_applicable,severe
+external,rear_left,Cabin Air Filter,dent,not_applicable,moderate
+internal,rear_left,License Plate,crack,not_applicable,severe
+external,rear_left,Gauge Manual,tire flat,not_applicable,moderate
+external,rear_right,Gauge Dial,tire flat,not_applicable,moderate
+external,front_left,Battery Tester,tire flat,not_applicable,moderate
+internal,rear_left,Headlight,dent,not_applicable,moderate
+internal,left,Tire,none,deployed,undamaged
+internal,front_left,Gauge Manual,crack,not_applicable,severe
+internal,front,Headlight,crack,not_applicable,severe
+external,rear_right,Cabin Air Filter,scratch,not_applicable,minor
+internal,front_left,Gauge Manual,glass shatter,not_applicable,moderate
+external,rear_right,Battery Tester,crack,not_applicable,severe
+internal,rear,Cabin Air Filter,glass shatter,not_applicable,moderate
+internal,left,Battery Tester,lamp broken,not_applicable,moderate
+internal,front,Battery Tester,dent,not_applicable,moderate
+internal,right,Gauge Digital,scratch,not_applicable,minor
+external,rear_right,Gauge Dial,tire flat,not_applicable,moderate
+internal,rear_left,License Plate,dent,not_applicable,moderate
+internal,left,Headlight,scratch,not_applicable,minor
+internal,rear_right,Gauge Digital,tire flat,not_applicable,moderate
+internal,rear_right,Tire,dent,not_applicable,moderate
+external,front_left,Wiper,crack,not_applicable,severe
+internal,front_left,Gauge Dial,glass shatter,not_applicable,moderate
+external,rear_right,Gauge Digital,none,not_applicable,undamaged
+external,left,Battery Tester,dent,not_applicable,moderate
+external,left,Gauge Manual,lamp broken,not_applicable,moderate
+external,left,Tire,none,not_applicable,undamaged
+external,rear_right,Battery Tester,tire flat,not_applicable,moderate
+internal,rear_left,Tire,none,not_applicable,undamaged
+external,right,Tire,scratch,not_applicable,minor
+internal,right,License Plate,lamp broken,deployed,severe
+external,front,Gauge Brakes,tire flat,not_applicable,moderate
+internal,front_left,Wiper,none,not_applicable,undamaged
+internal,rear_left,Battery Tester,crack,not_applicable,severe
+external,left,License Plate,none,not_applicable,undamaged
+internal,left,Gauge Manual,dent,not_applicable,moderate
+internal,rear,Gauge Manual,dent,not_applicable,moderate
+external,right,Gauge Dial,tire flat,not_applicable,moderate
+external,front_right,Headlight,scratch,not_applicable,minor
+external,rear_right,Headlight,crack,not_applicable,severe
+internal,rear,Gauge Manual,tire flat,not_applicable,moderate
+internal,rear_right,Battery Tester,tire flat,not_applicable,moderate
+internal,rear_left,Gauge Digital,crack,deployed,severe
+internal,rear_right,Gauge Dial,scratch,not_applicable,minor
+internal,right,Gauge Dial,scratch,deployed,severe
+internal,front_right,Gauge Dial,tire flat,deployed,severe
+external,left,Gauge Dial,none,not_applicable,undamaged
+external,rear,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,right,Battery Tester,crack,not_applicable,severe
+external,rear_left,Gauge Digital,dent,not_applicable,moderate
+external,rear_right,Gauge Dial,scratch,not_applicable,minor
+external,rear,Wiper,none,not_applicable,undamaged
+internal,rear_right,Gauge Dial,lamp broken,not_applicable,moderate
+internal,front_left,Gauge Dial,crack,not_applicable,severe
+external,front_right,Tire,none,not_applicable,undamaged
+external,left,Gauge Digital,lamp broken,not_applicable,moderate
+internal,front_left,Tire,none,deployed,undamaged
+internal,front_left,Headlight,lamp broken,deployed,severe
+internal,rear,Gauge Manual,dent,not_applicable,moderate
+external,front,Gauge Brakes,none,not_applicable,undamaged
+internal,rear_left,Tire,scratch,not_applicable,minor
+external,front_right,Gauge Dial,tire flat,not_applicable,moderate
+internal,rear_right,Tire,lamp broken,deployed,severe
+external,right,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,front_left,Screen,none,not_applicable,undamaged
+external,left,Screen,scratch,not_applicable,minor
+external,front_left,Headlight,scratch,not_applicable,minor
+external,front_right,Gauge Dial,scratch,not_applicable,minor
+internal,left,Gauge Digital,crack,not_applicable,severe
+external,front_right,Gauge Dial,lamp broken,not_applicable,moderate
+external,front,Wiper,dent,not_applicable,moderate
+external,front_left,Tire,scratch,not_applicable,minor
+external,rear_right,Screen,scratch,not_applicable,minor
+internal,right,Cabin Air Filter,tire flat,not_applicable,moderate
+external,rear_left,Gauge Digital,none,not_applicable,undamaged
+external,front,Battery Tester,crack,not_applicable,severe
+external,front_left,Battery Tester,lamp broken,not_applicable,moderate
+external,right,Screen,crack,not_applicable,severe
+internal,front_right,Headlight,none,not_applicable,undamaged
+internal,front_left,Gauge Manual,glass shatter,not_applicable,moderate
+external,rear_right,Gauge Digital,crack,not_applicable,severe
+external,front,Gauge Dial,none,not_applicable,undamaged
+external,rear_left,Wiper,glass shatter,not_applicable,moderate
+external,rear_left,Wiper,none,not_applicable,undamaged
+internal,rear_left,Gauge Manual,crack,not_applicable,severe
+internal,front,Gauge Manual,none,not_applicable,undamaged
+internal,left,Battery Tester,none,deployed,undamaged
+internal,front_left,Screen,none,not_applicable,undamaged
+internal,rear_left,License Plate,lamp broken,not_applicable,moderate
+internal,front,Tire,lamp broken,not_applicable,moderate
+external,rear,Gauge Dial,scratch,not_applicable,minor
+external,rear_left,License Plate,glass shatter,not_applicable,moderate
+internal,front,Gauge Dial,dent,not_applicable,moderate
+external,rear_right,Gauge Manual,lamp broken,not_applicable,moderate
+internal,rear_left,Gauge Manual,lamp broken,deployed,severe
+external,rear_right,Wiper,crack,not_applicable,severe
+internal,front_left,Gauge Manual,tire flat,not_applicable,moderate
+external,rear_left,Screen,none,not_applicable,undamaged
+external,left,Wiper,glass shatter,not_applicable,moderate
+external,left,Wiper,tire flat,not_applicable,moderate
+external,rear,Gauge Digital,none,not_applicable,undamaged
+external,front,Screen,none,not_applicable,undamaged
+external,front,Headlight,none,not_applicable,undamaged
+external,left,Cabin Air Filter,scratch,not_applicable,minor
+external,rear_right,Cabin Air Filter,lamp broken,not_applicable,moderate
+external,right,Tire,lamp broken,not_applicable,moderate
+external,right,Headlight,dent,not_applicable,moderate
+internal,front_left,Headlight,none,deployed,undamaged
+internal,right,License Plate,crack,deployed,severe
+external,front,Gauge Digital,tire flat,not_applicable,moderate
+external,rear,Gauge Dial,lamp broken,not_applicable,moderate
+internal,rear,Battery Tester,lamp broken,not_applicable,moderate
+external,front_left,Gauge Digital,tire flat,not_applicable,moderate
+internal,front,Cabin Air Filter,tire flat,deployed,severe
+internal,rear_right,Wiper,dent,not_applicable,moderate
+internal,front_right,Wiper,scratch,not_applicable,minor
+external,front_right,Screen,crack,not_applicable,severe
+external,right,Screen,dent,not_applicable,moderate
+external,right,Battery Tester,dent,not_applicable,moderate
+external,front_right,Wiper,dent,not_applicable,moderate
+external,front_left,Screen,lamp broken,not_applicable,moderate
+external,rear_right,Battery Tester,scratch,not_applicable,minor
+external,front,Gauge Manual,crack,not_applicable,severe
+external,front_right,Gauge Brakes,tire flat,not_applicable,moderate
+internal,rear_right,Wiper,none,not_applicable,undamaged
+internal,front_left,Gauge Manual,dent,not_applicable,moderate
+external,front_left,Gauge Dial,lamp broken,not_applicable,moderate
+external,rear_left,Gauge Digital,crack,not_applicable,severe
+internal,rear,Gauge Manual,scratch,not_applicable,minor
+internal,rear,Gauge Brakes,dent,not_applicable,moderate
+external,front_left,Tire,crack,not_applicable,severe
+external,right,Gauge Brakes,scratch,not_applicable,minor
+external,front,License Plate,glass shatter,not_applicable,moderate
+external,rear_right,License Plate,dent,not_applicable,moderate
+internal,front,Gauge Manual,crack,deployed,severe
+external,rear_right,Gauge Brakes,scratch,not_applicable,minor
+external,rear_left,Cabin Air Filter,lamp broken,not_applicable,moderate
+internal,rear_left,Gauge Manual,lamp broken,not_applicable,moderate
+external,rear,License Plate,lamp broken,not_applicable,moderate
+internal,left,Gauge Digital,glass shatter,deployed,severe
+external,front,Gauge Brakes,scratch,not_applicable,minor
+internal,rear_right,Screen,tire flat,not_applicable,moderate
+internal,rear_left,Gauge Dial,dent,not_applicable,moderate
+external,left,Cabin Air Filter,scratch,not_applicable,minor
+external,rear_left,License Plate,none,not_applicable,undamaged
+internal,front_right,License Plate,glass shatter,not_applicable,moderate
+internal,front_left,Gauge Dial,tire flat,deployed,severe
+internal,front_left,Gauge Brakes,dent,not_applicable,moderate
+external,front,Gauge Manual,scratch,not_applicable,minor
+external,rear_right,Gauge Dial,crack,not_applicable,severe
+external,front_left,License Plate,glass shatter,not_applicable,moderate
+internal,front_right,Headlight,tire flat,not_applicable,moderate
+external,rear,Screen,glass shatter,not_applicable,moderate
+internal,front_right,Gauge Brakes,none,not_applicable,undamaged
+internal,rear_left,Gauge Dial,tire flat,not_applicable,moderate
+internal,front,Battery Tester,tire flat,deployed,severe
+internal,front_right,License Plate,none,not_applicable,undamaged
+external,rear,License Plate,lamp broken,not_applicable,moderate
+internal,rear,Gauge Digital,lamp broken,deployed,severe
+external,left,Headlight,none,not_applicable,undamaged
+internal,front,Screen,glass shatter,not_applicable,moderate
+internal,rear_right,Gauge Brakes,lamp broken,deployed,severe
+internal,left,Tire,none,not_applicable,undamaged
+internal,front_left,Gauge Brakes,tire flat,deployed,severe
+external,rear_left,Gauge Manual,crack,not_applicable,severe
+external,front_right,License Plate,crack,not_applicable,severe
+external,rear,Battery Tester,tire flat,not_applicable,moderate
+external,right,Gauge Manual,dent,not_applicable,moderate
+external,front_right,Headlight,scratch,not_applicable,minor
+internal,rear,Gauge Manual,dent,not_applicable,moderate
+external,left,Tire,tire flat,not_applicable,moderate
+internal,rear,Gauge Manual,lamp broken,not_applicable,moderate
+external,front,Tire,scratch,not_applicable,minor
+internal,rear_left,Gauge Digital,scratch,not_applicable,minor
+internal,front_right,Headlight,crack,not_applicable,severe
+internal,rear_right,Gauge Dial,lamp broken,not_applicable,moderate
+internal,rear,Gauge Digital,dent,deployed,severe
+internal,front,Screen,glass shatter,not_applicable,moderate
+internal,rear_left,Battery Tester,tire flat,not_applicable,moderate
+external,front_right,Screen,scratch,not_applicable,minor
+internal,front_left,Headlight,lamp broken,not_applicable,moderate
+internal,left,Headlight,crack,not_applicable,severe
+internal,front_right,Tire,dent,not_applicable,moderate
+external,rear_right,Headlight,lamp broken,not_applicable,moderate
+external,front_right,License Plate,glass shatter,not_applicable,moderate
+internal,rear_right,Tire,crack,not_applicable,severe
+external,front,Battery Tester,tire flat,not_applicable,moderate
+internal,right,License Plate,tire flat,not_applicable,moderate
+external,right,Gauge Dial,tire flat,not_applicable,moderate
+internal,left,Wiper,glass shatter,not_applicable,moderate
+internal,rear,Cabin Air Filter,tire flat,deployed,severe
+external,rear_left,Gauge Dial,tire flat,not_applicable,moderate
+external,front_right,Screen,dent,not_applicable,moderate
+external,left,Tire,tire flat,not_applicable,moderate
+internal,rear_right,Wiper,lamp broken,deployed,severe
+internal,rear_left,Headlight,dent,not_applicable,moderate
+internal,left,Wiper,dent,not_applicable,moderate
+external,front,Gauge Manual,crack,not_applicable,severe
+internal,front_left,Screen,lamp broken,not_applicable,moderate
+external,front_left,Headlight,dent,not_applicable,moderate
+external,rear,Tire,lamp broken,not_applicable,moderate
+internal,front_left,Gauge Dial,scratch,not_applicable,minor
+external,front,Gauge Brakes,dent,not_applicable,moderate
+external,left,Wiper,tire flat,not_applicable,moderate
+external,front_right,License Plate,none,not_applicable,undamaged
+external,front_right,Wiper,lamp broken,not_applicable,moderate
+external,left,License Plate,crack,not_applicable,severe
+external,left,Gauge Dial,dent,not_applicable,moderate
+internal,rear_left,Wiper,lamp broken,not_applicable,moderate
+external,rear,Gauge Digital,tire flat,not_applicable,moderate
+external,rear_left,Gauge Digital,glass shatter,not_applicable,moderate
+external,left,Cabin Air Filter,crack,not_applicable,severe
+external,front_right,Cabin Air Filter,tire flat,not_applicable,moderate
+internal,front,Cabin Air Filter,lamp broken,not_applicable,moderate
+external,left,Tire,none,not_applicable,undamaged
+internal,left,Battery Tester,lamp broken,not_applicable,moderate
+internal,right,Tire,glass shatter,deployed,severe
+internal,rear,Tire,glass shatter,not_applicable,moderate
+internal,front_left,Gauge Manual,glass shatter,not_applicable,moderate
+internal,rear,Gauge Digital,dent,not_applicable,moderate
+internal,front_left,License Plate,glass shatter,not_applicable,moderate
+external,rear_right,License Plate,tire flat,not_applicable,moderate
+internal,rear,Gauge Brakes,lamp broken,not_applicable,moderate
+external,rear_left,Gauge Brakes,glass shatter,not_applicable,moderate
+internal,front,Screen,glass shatter,not_applicable,moderate
+external,front_right,License Plate,lamp broken,not_applicable,moderate
+external,front_right,License Plate,dent,not_applicable,moderate
+internal,rear_right,Screen,scratch,deployed,severe
+external,right,Cabin Air Filter,none,not_applicable,undamaged
+external,right,Gauge Digital,scratch,not_applicable,minor
+external,front,Tire,none,not_applicable,undamaged
+external,front,Gauge Manual,dent,not_applicable,moderate
+internal,front_right,Screen,tire flat,not_applicable,moderate
+internal,rear,Battery Tester,dent,not_applicable,moderate
+external,rear_left,Screen,none,not_applicable,undamaged
+internal,right,Gauge Digital,dent,deployed,severe
